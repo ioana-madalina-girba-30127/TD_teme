@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Hamming_4biti"
+		},
+		{
+			"path": "..\\Hamming_8biti"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Hamming_4biti"
+	}
+}
